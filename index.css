@@ -1,0 +1,8 @@
+body{background-color:navy}
+footer{background-color:olivedrab; font-family:helvetica}
+html{background-color:yellow}
+#slideshow{background-position:center}
+.slide {display:none}
+img {filter:grayscale(70%)}
+
+.fit{width:80%; object-fit: scale-down;}
